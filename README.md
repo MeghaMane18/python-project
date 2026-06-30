@@ -1,10 +1,10 @@
 # python calculator
 
-##Description
+#Description
 
 A simple menu-driven calculator built using Python
 
-##Features
+#Features
 
 -Addition
 
@@ -18,16 +18,16 @@ A simple menu-driven calculator built using Python
 
 -Handles division by zero
 
-##Technology used 
+#Technology used 
 
 Python 3
 
-##How to run
+#How to run
 
 '''bash
 python calculator.py
 '''
 
-##Author
+#Author
 
 Megha Mane
